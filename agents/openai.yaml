@@ -1,0 +1,5 @@
+interface:
+  display_name: "通用游戏双语补丁"
+  short_description: "制作游戏双语补丁，处理语言匹配、UI排版、拥挤取舍与可回退安装"
+  default_prompt: "使用 $game-bilingual-patch 为当前游戏制作指定语言组合的双语补丁，全面盘点可见文字，不局限于技能示例；根据用户偏好、阅读方向与实际界面灵活排版，在可读且不遮挡的前提下尽可能实现双语。"
+
